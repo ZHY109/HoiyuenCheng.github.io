@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
+title                    : "Homepage"
 description              : "Hoiyuen Cheng, named as Haiyuan Zheng in mainland, is a bachlor of School of Intelligent Systems Engineering, Sun Yat-Sen University. "
 repository               : "ZHY109/HoiyuenCheng.github.io"
 google_scholar_stats_use_cdn : true
