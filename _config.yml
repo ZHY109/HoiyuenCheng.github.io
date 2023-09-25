@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Hoiyuen Cheng, named as Haiyuan Zheng in mainland, is a bachlor of School of Intelligent Systems Engineering, Sun Yat-Sen University. "
 repository               : "ZHY109/HoiyuenCheng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "cheng97@mail2.sysu.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/Cheng-Hoiyuen"
+  researchgate     : "https://www.researchgate.net/profile/Cheng-Hoiyuen"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "ZHY109"
+  github           : "ZHY109"
   google_plus      :
   keybase          :
   instagram        :
